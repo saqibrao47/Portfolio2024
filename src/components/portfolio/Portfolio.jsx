@@ -69,6 +69,7 @@ const Portfolio = () => {
     damping: 30,
   });
 
+  
   return (
     <div className="portfolio" ref={ref}>
       <div className="progress">
