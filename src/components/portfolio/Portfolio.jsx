@@ -79,6 +79,7 @@ const Portfolio = () => {
         <Single item={item} key={item.id} />
       ))}
     </div>
+    
   );
 };
 
