@@ -13,20 +13,20 @@ const Navbar = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          Lama Dev
+          Saqib Tufail
         </motion.span>
         <div className="social">
-          <a href="#">
-            <img src="/facebook.png" alt="" />
+          <a href="https://www.facebook.com/Saqibrao778">
+            <img src="https://res.cloudinary.com/dvvanf54x/image/upload/v1724489529/facebook_j7urqw.png" alt="Facebook" />
           </a>
-          <a href="#">
-            <img src="/instagram.png" alt="" />
+          <a href="https://www.tiktok.com/@bentdubaii778">
+            <img src="https://res.cloudinary.com/dvvanf54x/image/upload/v1724489531/tiktok_bypqss.png" alt="Tiktok" />
           </a>
-          <a href="#">
-            <img src="/youtube.png" alt="" />
+          <a href="https://www.instagram.com/saqibrao9">
+            <img src="https://res.cloudinary.com/dvvanf54x/image/upload/v1724489528/instagram_ltrqgh.png" alt="Instagram" />
           </a>
-          <a href="#">
-            <img src="/dribbble.png" alt="" />
+          <a href="https://www.linkedin.com/in/saqib-tufail778/">
+            <img src="https://res.cloudinary.com/dvvanf54x/image/upload/v1724489528/linkedin_liqtwj.png" alt="LinkedIn" />
           </a>
         </div>
       </div>
